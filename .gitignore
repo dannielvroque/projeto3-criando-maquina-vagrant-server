@@ -1,0 +1,6 @@
+# Ignorar o vagrant
+.vagrant/
+
+# Ignorar arquivos temporários
+*.log
+*.tmp
